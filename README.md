@@ -4,7 +4,7 @@ Hi everyone! 👋
 Welcome to my GitHub page — [raditya224](https://github.com/raditya224)
 
 This repository might not be impressive compared to others, but it means a lot to me.  
-I'm starting my journey in programming, especially learning **C++** from scratch.
+I'm starting my journey in programming, especially learning **C** from scratch.
 
 Feel free to explore, give feedback, or just see how far I’ve come.  
 Thank you for visiting and supporting my learning process! 🙏
