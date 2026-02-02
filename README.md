@@ -13,14 +13,13 @@ Thank you for visiting and supporting my learning process! 🙏
 
 
 
-Here’s a very basic C++ code I wrote:
+Here’s a very basic C code I wrote:
 
 ```cpp
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int main() {
-    cout << "Hi Everyone!";
+    printf("Hello World !\n");
     return 0;
 }
 ```
@@ -30,7 +29,7 @@ int main() {
 ## About Me
 
 - 📌 Still learning and growing  
-- 💻 Passionate about C++  
+- 💻 Passionate about C & C++  
 - 🎯 Trying to improve every day  
 - 🔁 *Just keep pushing* 🙌  
 
